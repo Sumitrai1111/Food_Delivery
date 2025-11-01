@@ -87,11 +87,9 @@
   background-color: #ffe1e1;
   cursor: pointer;
   color: #454545;
-  opacity: 0.9;
 }
 
-.my-orders-order button :hover {
-  opacity: 1;
+.my-orders-order button:hover {
   color: tomato;
 }
 
