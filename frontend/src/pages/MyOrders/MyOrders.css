@@ -92,6 +92,7 @@
 
 .my-orders-order button :hover {
   opacity: 1;
+  color: tomato;
 }
 
 /* 📱 Tablet (≤ 900px) */
